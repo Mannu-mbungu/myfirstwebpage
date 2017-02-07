@@ -1,0 +1,12 @@
+h1 {
+  color: red;
+  text-align: center;
+  text-decoration: underline;
+  font-family: open sans-serif;
+  font-size: 36px;
+}
+h2 {
+  color: red;
+  font-size: 18px;
+  font-style: normal;
+}
