@@ -23,5 +23,5 @@ p.intro {
         font-style: italic;
       }
 p.em {
-  font-style: italic;
+  color: blue;
 }
