@@ -1,3 +1,6 @@
+body {
+    background-color:lightblue;
+  }
 h1 {
   color: red;
   text-align: center;
@@ -13,7 +16,12 @@ h2 {
 h3 {
   color: red
 
+
 }
-body {
-    background-color: lightblue;
+p.intro {
+        width: 50%;
+        font-style: italic;
+      }
+p.em {
+  font-style: italic;
 }
